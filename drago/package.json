@@ -1,0 +1,27 @@
+{
+  "name": "drago-business-card",
+  "version": "1.0.0",
+  "description": "CLI business card for Mantej Singh (Drago)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "business card",
+    "drago",
+    "mantej",
+    "developer"
+  ],
+  "author": "Mantej Singh (Drago) <mantejarora@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bin": {
+    "drago": "./cli.js"
+  },
+  "dependencies": {
+    "drago-business-card": "^1.0.0",
+    "minimist": "^1.2.8",
+    "prettyjson": "^1.2.1"
+  }
+}
