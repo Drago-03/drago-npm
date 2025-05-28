@@ -1,4 +1,4 @@
-# drago-business-card
+# Drago's Business Card
 
 > A CLI business card for Mantej Singh (Drago)
 
@@ -11,13 +11,13 @@ This is a command-line business card that prints out information about Mantej Si
 You can use this CLI directly with npx (no install required):
 
 ```
-npx drago-business-card
+npx mantejsingh
 ```
 
 Or install it globally:
 
 ```
-npm install -g drago-business-card
+npm install -g mantejsingh
 ```
 
 ## Usage
@@ -25,15 +25,15 @@ npm install -g drago-business-card
 After installing globally, run:
 
 ```
-drago-business-card
+mantejsingh
 ```
 
 Or, to get the raw JSON output:
 
 ```
-drago-business-card --json
+mantejsingh --json
 # or
-npx drago-business-card -j
+npx mantejsingh -j
 ```
 
 ## What you get
