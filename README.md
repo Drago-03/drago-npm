@@ -1,4 +1,4 @@
-<h1 align="center">✨ drago-business-card ✨</h1>
+<h1 align="center">✨ Drago's Business Card ✨</h1>
 <p align="center">
   <b>A CLI business card for Mantej Singh (Drago)</b><br>
   <i>Share your digital profile right from the terminal!</i>
@@ -23,13 +23,13 @@ Inspired by the idea of sharing your digital profile via the terminal!
 Use it instantly with npx (no install required):
 
 ```bash
-npx drago-business-card
+npx mantejsingh
 ```
 
 Or install globally:
 
 ```bash
-npm install -g drago-business-card
+npm install -g mantejsingh
 ```
 
 ---
@@ -39,15 +39,15 @@ npm install -g drago-business-card
 After installing globally, just run:
 
 ```bash
-drago-business-card
+mantejsingh
 ```
 
 Or get the raw JSON output:
 
 ```bash
-drago-business-card --json
+mantejsingh --json
 # or
-npx drago-business-card -j
+npx mantejsingh -j
 ```
 
 ---
